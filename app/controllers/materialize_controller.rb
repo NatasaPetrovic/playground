@@ -1,0 +1,2 @@
+class MaterializeController < ApplicationController
+end
